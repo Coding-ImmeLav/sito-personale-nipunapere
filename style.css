@@ -18,7 +18,6 @@
     border: 0.5px solid rgb(60, 60, 60);
     padding: 5%;
 }
-
 .cv {
     margin-top: 5vh;
     margin-bottom: 5vh;
@@ -26,4 +25,10 @@
 
 .btn {
     width: auto;
+    background-color: blue;
+}
+
+footer {
+    background-color: cadetblue;
+    padding: 5vh;
 }
